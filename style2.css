@@ -1,0 +1,31 @@
+h1, h2 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background-color: beige;
+    color: black;
+}
+
+h2 {
+    font-size: 34px;
+    font-style: italic;
+    color: grey;
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: beige;
+    font-style: italic;
+    color: grey
+}
+
+p {
+    font-size: 28px;
+    text-align: center;
+}
+
+.section {
+    font-size: 28px;
+
+}

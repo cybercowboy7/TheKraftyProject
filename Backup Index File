@@ -1,0 +1,38 @@
+ <body>
+        <div class="container">
+            <div class="item"></div>
+            <div class="item"></div>
+            <div class="item"></div>
+        </div>
+
+        <div class="title">Welcome to my website about me!</div>
+
+        <p><img src="Profile.jpg" alt="Profile picture of me" height="310" width="310"></p>
+
+        <p><img src="Images/Security+.png" alt="Security+ Logo" height="100" width="100">
+
+        <img src="Images/Pentest+.jpg" alt="Pentest+ Logo" height="100" width="100">
+
+        <img src="Images/CASP.jpg" alt="CASP+ Logo" height="100" width="100">
+
+        <img src="Images/BTL1.png" alt="BTL1+ Logo" height="100" width="100">
+
+        <img src="Images/CC.png" alt="Certified in Cybersecurity Logo" height="100" width="100"></p>
+        
+        <div class="body"> Below I will have links to things such write ups on
+            certifications I hold, projects I am working on, my 
+            career journey and many more! Feel free to give it
+            a browse!</div>
+        
+        
+            <p><button class="button"><a href="./About_Me.html" target="blank" ref="norefferer">About Me</a></button></p>
+
+            <p><button class="button"><a href="./Professional.html" target="blank" ref="norefferer">Pre-Military Professional Career</a></button></p>
+
+            <p><button class="button"><a href="./Mil_Professional.html" target="blank" ref="norefferer">Military Professional Career</a></button></p>
+        
+            <p><button class="button"><a href="./My_Certifications/My_Certifications.html" target="blank" ref="norefferer">My Certifications</a></button></p>
+
+        
+
+    </body>

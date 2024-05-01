@@ -4,6 +4,9 @@ h1, h2 {
     text-align: center;
     background-color: beige;
     color: black;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 5px;
 }
 
 h2 {
@@ -15,9 +18,9 @@ h2 {
 h3 {
     font-size: 32px;
     font-weight: bold;
-    background-color: beige;
     font-style: italic;
-    color: grey
+    color: rgb(0, 0, 0);
+    margin: 10px;
 }
 
 p {
@@ -27,6 +30,7 @@ p {
 
 .section {
     font-size: 28px;
+    margin: 10px;
 
 }
 
